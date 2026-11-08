@@ -2,7 +2,7 @@
 
 Minecraft 基岩版模型与贴图工具，供 AI Agent 与脚本调用。
 
-单文件可执行程序，无运行时依赖。本仓库仅发布可执行文件。
+单文件可执行程序，无运行时依赖。可执行文件见 [Releases](https://github.com/wachg-studio/Raxul-A/releases)。
 
 ---
 
